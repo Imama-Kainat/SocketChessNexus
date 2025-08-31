@@ -76,6 +76,7 @@ pip install -r requirements.txt
 ## 📖 Documentation
 
 For detailed explanation of architecture, design, and implementation, check the [Project Documentation](https://docs.google.com/document/d/1lUAXp2R_7SiedBwF9k8MTPPfWv9EDPAtt2fK_3woCqc/edit?usp=sharing).
+[Demo video](https://drive.google.com/file/d/1QfOgesWDNoGJe80HivZUrO9U1mmw6yJk/view?usp=sharing).
 
 ---
 
