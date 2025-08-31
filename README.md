@@ -93,7 +93,4 @@ For detailed explanation of architecture, design, and implementation, check the 
 
 ---
 
-✅ I added a **wide chess image banner** from Unsplash at the top. You can swap it later with a **screenshot of your own game GUI** once ready.  
 
-Do you want me to also create a **GitHub Shields section** (like Python version, License, Stars, etc.) for extra polish?
-```
